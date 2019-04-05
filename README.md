@@ -3,4 +3,4 @@
 tada
 blah
 quux
-bar
+Bar
