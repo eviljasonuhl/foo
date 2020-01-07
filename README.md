@@ -6,3 +6,4 @@ quux
 Bar
 webedit
 bas
+foo
